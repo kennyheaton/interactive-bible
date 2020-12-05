@@ -1,0 +1,17 @@
+{
+    "name": "kenny/interactive-bible",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kenny Heaton",
+            "email": "kennyheaton@icloud.com"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "8.0"
+        }
+    },
+    "require": {}
+}
